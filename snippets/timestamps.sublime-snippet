@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Indicates if the model should be timestamped.
+ *
+ * @var boolean
+ */
+protected \$timestamps = $1;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>timestamps</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+	<description>Eloquent timestamps boolean</description>
+</snippet>

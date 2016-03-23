@@ -3,7 +3,7 @@
 /**
  * Fields that can be mass assigned
  *
- * @var string[]
+ * @var array
  */
 protected \$fillable = [$1];
 ]]></content>

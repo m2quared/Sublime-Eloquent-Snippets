@@ -1,7 +1,6 @@
 # Eloquent Snippets for Sublime Text
 
 [![Latest Version][ico-latest-version]][link-latest-version]
-![Laravel Version][ico-laravel-version]
 [![Package Control][ico-package-control]][link-package-control]
 
 ### Installation
@@ -19,7 +18,8 @@ Download the latest source from GitHub and copy the "Laravel 5 Sippets" folder t
 Clone the repository in your Sublime Text "Packages" directory:
 
 ```
-git clone
+git clone https://github.com/m2quared/Sublime-Eloquent-Snippets.git "Sublime Eloquent Snippets"
+```
 
 ## License
 

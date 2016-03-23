@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} morphs many ${1/^((.+)ies)|(.+[^s])s$/\u(?1$2y:$3)/}
+ * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} morphs many ${1/^((.+)ies)|(.+[^s])s$/\u(?1$2y:$3)/}.
  *
  * @return \Illuminate\Database\Eloquent\Relations\MorphOne
  */

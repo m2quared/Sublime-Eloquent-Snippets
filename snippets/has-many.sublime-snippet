@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} has many ${1/(.+)$/\u$0/}
+ * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} has many ${1/(.+)$/\u$0/}.
  *
  * @return \Illuminate\Database\Eloquent\Relations\HasMany
  */

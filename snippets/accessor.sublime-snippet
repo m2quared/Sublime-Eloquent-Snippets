@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /**
- * Accessor for $1 attribute
+ * Accessor for $1 attribute.
  *
  * @return ${3:returnType}
  */

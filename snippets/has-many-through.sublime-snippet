@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} has many ${1/^((.+ies))|(.+[^s]s)$/\u(?1$2y:$3)/} through ${2/^((.+)y)|(.+)$/\u(?1$2y:$3s)/}
+ * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} has many ${1/^((.+ies))|(.+[^s]s)$/\u(?1$2y:$3)/} through ${2/^((.+)y)|(.+)$/\u(?1$2y:$3s)/}.
  * Works for 1-1/1-m through 1-1/1-m
  *
  * @return \Illuminate\Database\Eloquent\Relations\HasManyThrough

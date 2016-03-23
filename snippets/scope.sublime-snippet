@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /**
- * Query scope $1
+ * Query scope $1.
  *
  * @param  \Illuminate\Database\Eloquent\Builder
  * @return \Illuminate\Database\Eloquent\Builder

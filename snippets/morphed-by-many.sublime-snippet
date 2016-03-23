@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} is morphed by many (many-to-many) ${1/(.+)$/\u$0/}
+ * ${TM_FILEPATH/^.+\/(\w+)\.php$/${1}/} is morphed by many (many-to-many) ${1/(.+)$/\u$0/}.
  *
  * @return \Illuminate\Database\Eloquent\Relations\MorphedByMany
  */

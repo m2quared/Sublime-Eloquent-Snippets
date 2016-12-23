@@ -5,7 +5,7 @@
  *
  * @var boolean
  */
-protected \$timestamps = $1;
+public \$timestamps = $1;
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>timestamps</tabTrigger>

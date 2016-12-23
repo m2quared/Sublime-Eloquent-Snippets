@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * The attributes that should be mutated to dates.
+ *
+ * @var array
+ */
+    protected \$dates = [
+        $1
+    ];
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>dates</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Mutation to dates</description>
+</snippet>

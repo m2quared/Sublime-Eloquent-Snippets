@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * The attributes that should be cast to native types.
+ *
+ * @var array
+ */
+protected \$casts = [
+    $1
+];
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>casts</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Casting to native types</description>
+</snippet>

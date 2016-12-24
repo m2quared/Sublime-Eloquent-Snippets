@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * The storage format of the model's date columns.
+ *
+ * @var string
+ */
+protected \$dateFormat = '$1';
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>date-format</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Eloquent model for date columns</description>
+</snippet>

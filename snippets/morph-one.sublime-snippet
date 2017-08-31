@@ -8,7 +8,7 @@
 public function $1()
 {
 	// morphOne(MorphedModel, morphableName, type = ${2/.*/$0/}_type, relatedKeyName = ${2/.*/$0/}_id, localKey = id)
-	return \$this->morphOne(${1/^(.+[^s])s?$/\u$1/}::class, '${2:${1/^((.+)ies)|(.+[^s])s$/\l(?1$2y:$3)/}able}'$4)$5;
+	return \$this->morphOne(${1/.*/\u$0/}::class, '${2:${1}able}'$4)$5;
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

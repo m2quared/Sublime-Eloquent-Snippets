@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This package is deprecated and no longer maintained.** The repository has been archived and is read-only. It will not receive further updates or fixes.
+
 # Eloquent Snippets for Sublime Text
 
 [![Latest Version][ico-latest-version]][link-latest-version]
